@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\2_Aksarlian_BienvenidoACiudad\2_Aksarlian_BienvenidoACiudad\bin\Debug\2_Aksarlian_BienvenidoACiudad.exe.config
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\2_Aksarlian_BienvenidoACiudad\2_Aksarlian_BienvenidoACiudad\bin\Debug\2_Aksarlian_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\2_Aksarlian_BienvenidoACiudad\2_Aksarlian_BienvenidoACiudad\bin\Debug\2_Aksarlian_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\2_Aksarlian_BienvenidoACiudad\2_Aksarlian_BienvenidoACiudad\obj\Debug\2_Aksarlian_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\2_Aksarlian_BienvenidoACiudad\2_Aksarlian_BienvenidoACiudad\obj\Debug\2_Aksarlian_BienvenidoACiudad.pdb
