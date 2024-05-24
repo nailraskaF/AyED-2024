@@ -1,4 +1,5 @@
 # Etapa1 
-## Francisco Aksarlian
-## prof: Franco Cortinez
-### Hogar Naval
+### Temas a ver
+* Variables
+* Funciones Repetitivas (while)
+* Variables Locales y Globales
