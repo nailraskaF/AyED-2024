@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\bin\Debug\10_Aksarlian_EsDivisor.exe.config
+C:\Users\alumno.ET37\Documents\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\bin\Debug\10_Aksarlian_EsDivisor.exe
+C:\Users\alumno.ET37\Documents\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\bin\Debug\10_Aksarlian_EsDivisor.pdb
+C:\Users\alumno.ET37\Documents\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\obj\Debug\10_Aksarlian_EsDivisor.exe
+C:\Users\alumno.ET37\Documents\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\10_Aksarlian_EsDivisor\obj\Debug\10_Aksarlian_EsDivisor.pdb
