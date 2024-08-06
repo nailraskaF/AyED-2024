@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\bin\Debug\14_Aksarlian_Cumplidos.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\bin\Debug\14_Aksarlian_Cumplidos.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\bin\Debug\14_Aksarlian_Cumplidos.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\obj\Debug\14_Aksarlian_Cumplidos.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\obj\Debug\14_Aksarlian_Cumplidos.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\14_Aksarlian_Cumplidos\obj\Debug\14_Aksarlian_Cumplidos.csprojResolveAssemblyReference.cache

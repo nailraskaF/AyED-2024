@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\11_Aksarlian_ParImpar\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\bin\Debug\12_Aksarlian_CobrarBeca.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\11_Aksarlian_ParImpar\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\bin\Debug\12_Aksarlian_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\11_Aksarlian_ParImpar\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\bin\Debug\12_Aksarlian_CobrarBeca.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\11_Aksarlian_ParImpar\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\obj\Debug\12_Aksarlian_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\11_Aksarlian_ParImpar\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\12_Aksarlian_CobrarBeca\obj\Debug\12_Aksarlian_CobrarBeca.pdb

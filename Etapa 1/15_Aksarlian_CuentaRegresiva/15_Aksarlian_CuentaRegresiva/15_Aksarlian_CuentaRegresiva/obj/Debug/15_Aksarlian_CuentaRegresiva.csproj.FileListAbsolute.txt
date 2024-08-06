@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\bin\Debug\15_Aksarlian_CuentaRegresiva.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\bin\Debug\15_Aksarlian_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\bin\Debug\15_Aksarlian_CuentaRegresiva.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\obj\Debug\15_Aksarlian_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\15_Aksarlian_CuentaRegresiva\obj\Debug\15_Aksarlian_CuentaRegresiva.pdb

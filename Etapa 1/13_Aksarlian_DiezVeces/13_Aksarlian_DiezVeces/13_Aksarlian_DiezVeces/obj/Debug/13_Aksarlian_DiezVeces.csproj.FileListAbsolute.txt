@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\bin\Debug\13_Aksarlian_DiezVeces.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\bin\Debug\13_Aksarlian_DiezVeces.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\bin\Debug\13_Aksarlian_DiezVeces.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\obj\Debug\13_Aksarlian_DiezVeces.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\13_Aksarlian_DiezVeces\obj\Debug\13_Aksarlian_DiezVeces.pdb
