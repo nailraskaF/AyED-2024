@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\0_Aksarlian_CalculadoraBasica\0_Aksarlian_CalculadoraBasica\bin\Debug\0_Aksarlian_CalculadoraBasica.exe.config
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\0_Aksarlian_CalculadoraBasica\0_Aksarlian_CalculadoraBasica\obj\Debug\0_Aksarlian_CalculadoraBasica.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\0_Aksarlian_CalculadoraBasica\0_Aksarlian_CalculadoraBasica\bin\Debug\0_Aksarlian_CalculadoraBasica.exe
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\0_Aksarlian_CalculadoraBasica\0_Aksarlian_CalculadoraBasica\bin\Debug\0_Aksarlian_CalculadoraBasica.pdb
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\0_Aksarlian_CalculadoraBasica\0_Aksarlian_CalculadoraBasica\obj\Debug\0_Aksarlian_CalculadoraBasica.exe
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\0_Aksarlian_CalculadoraBasica\0_Aksarlian_CalculadoraBasica\obj\Debug\0_Aksarlian_CalculadoraBasica.pdb
