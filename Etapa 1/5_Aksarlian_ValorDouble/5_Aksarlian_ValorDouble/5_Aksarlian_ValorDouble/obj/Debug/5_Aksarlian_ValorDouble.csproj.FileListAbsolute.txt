@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\bin\Debug\5_Aksarlian_ValorDouble.exe.config
-C:\Users\alumno.ET37\Documents\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\bin\Debug\5_Aksarlian_ValorDouble.exe
-C:\Users\alumno.ET37\Documents\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\bin\Debug\5_Aksarlian_ValorDouble.pdb
-C:\Users\alumno.ET37\Documents\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\obj\Debug\5_Aksarlian_ValorDouble.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\obj\Debug\5_Aksarlian_ValorDouble.exe
-C:\Users\alumno.ET37\Documents\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\5_Aksarlian_ValorDouble\obj\Debug\5_Aksarlian_ValorDouble.pdb
