@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\3_Aksarlian_DimensionesDeEsfera\3_Aksarlian_DimensionesDeEsfera\bin\Debug\3_Aksarlian_DimensionesDeEsfera.exe.config
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\3_Aksarlian_DimensionesDeEsfera\3_Aksarlian_DimensionesDeEsfera\bin\Debug\3_Aksarlian_DimensionesDeEsfera.exe
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\3_Aksarlian_DimensionesDeEsfera\3_Aksarlian_DimensionesDeEsfera\bin\Debug\3_Aksarlian_DimensionesDeEsfera.pdb
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\3_Aksarlian_DimensionesDeEsfera\3_Aksarlian_DimensionesDeEsfera\obj\Debug\3_Aksarlian_DimensionesDeEsfera.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\3_Aksarlian_DimensionesDeEsfera\3_Aksarlian_DimensionesDeEsfera\obj\Debug\3_Aksarlian_DimensionesDeEsfera.exe
-C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\3_Aksarlian_DimensionesDeEsfera\3_Aksarlian_DimensionesDeEsfera\obj\Debug\3_Aksarlian_DimensionesDeEsfera.pdb
