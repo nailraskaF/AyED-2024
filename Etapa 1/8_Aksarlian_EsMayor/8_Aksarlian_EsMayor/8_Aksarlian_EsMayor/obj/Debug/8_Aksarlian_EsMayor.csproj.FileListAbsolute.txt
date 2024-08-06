@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Documents\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\bin\Debug\8_Aksarlian_EsMayor.exe.config
-C:\Users\alumno.ET37\Documents\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\bin\Debug\8_Aksarlian_EsMayor.exe
-C:\Users\alumno.ET37\Documents\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\bin\Debug\8_Aksarlian_EsMayor.pdb
-C:\Users\alumno.ET37\Documents\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\obj\Debug\8_Aksarlian_EsMayor.exe
-C:\Users\alumno.ET37\Documents\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\8_Aksarlian_EsMayor\obj\Debug\8_Aksarlian_EsMayor.pdb
