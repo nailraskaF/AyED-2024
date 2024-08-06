@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\bin\Debug\17_Aksarlian_MiPrimerMenu.exe.config
+C:\Users\alumno.ET37\Documents\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\bin\Debug\17_Aksarlian_MiPrimerMenu.exe
+C:\Users\alumno.ET37\Documents\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\bin\Debug\17_Aksarlian_MiPrimerMenu.pdb
+C:\Users\alumno.ET37\Documents\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\obj\Debug\17_Aksarlian_MiPrimerMenu.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\obj\Debug\17_Aksarlian_MiPrimerMenu.exe
+C:\Users\alumno.ET37\Documents\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\17_Aksarlian_MiPrimerMenu\obj\Debug\17_Aksarlian_MiPrimerMenu.pdb

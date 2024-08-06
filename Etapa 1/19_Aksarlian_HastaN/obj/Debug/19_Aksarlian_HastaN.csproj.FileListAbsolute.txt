@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\19_Aksarlian_HastaN\19_Aksarlian_HastaN\19_Aksarlian_HastaN\bin\Debug\19_Aksarlian_HastaN.exe.config
+C:\Users\alumno.ET37\Documents\19_Aksarlian_HastaN\19_Aksarlian_HastaN\19_Aksarlian_HastaN\bin\Debug\19_Aksarlian_HastaN.exe
+C:\Users\alumno.ET37\Documents\19_Aksarlian_HastaN\19_Aksarlian_HastaN\19_Aksarlian_HastaN\bin\Debug\19_Aksarlian_HastaN.pdb
+C:\Users\alumno.ET37\Documents\19_Aksarlian_HastaN\19_Aksarlian_HastaN\19_Aksarlian_HastaN\obj\Debug\19_Aksarlian_HastaN.exe
+C:\Users\alumno.ET37\Documents\19_Aksarlian_HastaN\19_Aksarlian_HastaN\19_Aksarlian_HastaN\obj\Debug\19_Aksarlian_HastaN.pdb
