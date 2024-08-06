@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\1_Aksarlian_LaSumaAnterior\1_Aksarlian_LaSumaAnterior\bin\Debug\1_Aksarlian_LaSumaAnterior.exe.config
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\1_Aksarlian_LaSumaAnterior\1_Aksarlian_LaSumaAnterior\bin\Debug\1_Aksarlian_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\1_Aksarlian_LaSumaAnterior\1_Aksarlian_LaSumaAnterior\bin\Debug\1_Aksarlian_LaSumaAnterior.pdb
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\1_Aksarlian_LaSumaAnterior\1_Aksarlian_LaSumaAnterior\obj\Debug\1_Aksarlian_LaSumaAnterior.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\1_Aksarlian_LaSumaAnterior\1_Aksarlian_LaSumaAnterior\obj\Debug\1_Aksarlian_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa1\1_Aksarlian_LaSumaAnterior\1_Aksarlian_LaSumaAnterior\obj\Debug\1_Aksarlian_LaSumaAnterior.pdb
