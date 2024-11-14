@@ -1,0 +1,12 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\bin\Debug\5_Aksarlian_MiPrimerMenuGui.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\bin\Debug\5_Aksarlian_MiPrimerMenuGui.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\bin\Debug\5_Aksarlian_MiPrimerMenuGui.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\5_Aksarlian_MiPrimerMenuGui.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\_5_Aksarlian_MiPrimerMenuGui.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\_5_Aksarlian_MiPrimerMenuGui.Form2.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\_5_Aksarlian_MiPrimerMenuGui.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\5_Aksarlian_MiPrimerMenuGui.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\5_Aksarlian_MiPrimerMenuGui.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\5_Aksarlian_MiPrimerMenuGui.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\_5_Aksarlian_MiPrimerMenuGui.Form3.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\5_Aksarlian_MiPrimerMenuGui\5_Aksarlian_MiPrimerMenuGui\obj\Debug\_5_Aksarlian_MiPrimerMenuGui.Form4.resources
