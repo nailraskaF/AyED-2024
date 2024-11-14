@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\1_Aksarlian_HolaNombre\1_Aksarlian_HolaNombre\bin\Debug\1_Aksarlian_HolaNombre.exe.config
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\1_Aksarlian_HolaNombre\1_Aksarlian_HolaNombre\bin\Debug\1_Aksarlian_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\1_Aksarlian_HolaNombre\1_Aksarlian_HolaNombre\bin\Debug\1_Aksarlian_HolaNombre.pdb
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\1_Aksarlian_HolaNombre\1_Aksarlian_HolaNombre\obj\Debug\1_Aksarlian_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\1_Aksarlian_HolaNombre\1_Aksarlian_HolaNombre\obj\Debug\1_Aksarlian_HolaNombre.pdb

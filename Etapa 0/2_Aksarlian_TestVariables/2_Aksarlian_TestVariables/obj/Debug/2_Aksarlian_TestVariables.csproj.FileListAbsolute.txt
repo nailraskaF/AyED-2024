@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\2_Aksarlian_TestVariables\2_Aksarlian_TestVariables\bin\Debug\2_Aksarlian_TestVariables.exe.config
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\2_Aksarlian_TestVariables\2_Aksarlian_TestVariables\obj\Debug\2_Aksarlian_TestVariables.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\2_Aksarlian_TestVariables\2_Aksarlian_TestVariables\bin\Debug\2_Aksarlian_TestVariables.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\2_Aksarlian_TestVariables\2_Aksarlian_TestVariables\bin\Debug\2_Aksarlian_TestVariables.pdb
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\2_Aksarlian_TestVariables\2_Aksarlian_TestVariables\obj\Debug\2_Aksarlian_TestVariables.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\2_Aksarlian_TestVariables\2_Aksarlian_TestVariables\obj\Debug\2_Aksarlian_TestVariables.pdb

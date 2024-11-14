@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\0_Aksarlian_HolaMundo\0_Aksarlian_HolaMundo\bin\Debug\0_Aksarlian_HolaMundo.exe.config
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\0_Aksarlian_HolaMundo\0_Aksarlian_HolaMundo\bin\Debug\0_Aksarlian_HolaMundo.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\0_Aksarlian_HolaMundo\0_Aksarlian_HolaMundo\bin\Debug\0_Aksarlian_HolaMundo.pdb
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\0_Aksarlian_HolaMundo\0_Aksarlian_HolaMundo\obj\Debug\0_Aksarlian_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\0_Aksarlian_HolaMundo\0_Aksarlian_HolaMundo\obj\Debug\0_Aksarlian_HolaMundo.exe
+C:\Users\alumno.ET37\Documents\Aksarlian2024\Etapa0\0_Aksarlian_HolaMundo\0_Aksarlian_HolaMundo\obj\Debug\0_Aksarlian_HolaMundo.pdb
