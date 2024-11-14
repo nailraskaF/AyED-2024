@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\bin\Debug\MiPrimeraVezConWFroms.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\bin\Debug\MiPrimeraVezConWFroms.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\bin\Debug\MiPrimeraVezConWFroms.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\obj\Debug\MiPrimeraVezConWFroms.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\obj\Debug\MiPrimeraVezConWFroms.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\obj\Debug\MiPrimeraVezConWFroms.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\obj\Debug\MiPrimeraVezConWFroms.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\obj\Debug\MiPrimeraVezConWFroms.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\MiPrimeraVezConWFroms\MiPrimeraVezConWFroms\obj\Debug\MiPrimeraVezConWFroms.pdb

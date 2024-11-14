@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\bin\Debug\1_Aksarlian_CobrarBecaGUI.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\bin\Debug\1_Aksarlian_CobrarBecaGUI.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\bin\Debug\1_Aksarlian_CobrarBecaGUI.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\obj\Debug\1_Aksarlian_CobrarBecaGUI.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\obj\Debug\_1_Aksarlian_CobrarBecaGUI.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\obj\Debug\_1_Aksarlian_CobrarBecaGUI.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\obj\Debug\1_Aksarlian_CobrarBecaGUI.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\obj\Debug\1_Aksarlian_CobrarBecaGUI.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Aksarlian_CobrarBecaGUI\1_Aksarlian_CobrarBecaGUI\obj\Debug\1_Aksarlian_CobrarBecaGUI.pdb
