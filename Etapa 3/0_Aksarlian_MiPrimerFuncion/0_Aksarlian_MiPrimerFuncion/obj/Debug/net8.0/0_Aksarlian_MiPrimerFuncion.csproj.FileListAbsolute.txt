@@ -1,0 +1,14 @@
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\bin\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.exe
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\bin\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.deps.json
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\bin\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.runtimeconfig.json
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\bin\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.dll
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\bin\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.pdb
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.AssemblyInfoInputs.cache
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.AssemblyInfo.cs
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.dll
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\refint\0_Aksarlian_MiPrimerFuncion.dll
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.pdb
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\0_Aksarlian_MiPrimerFuncion.genruntimeconfig.cache
+C:\Users\panch\source\repos\0_Aksarlian_MiPrimerFuncion\0_Aksarlian_MiPrimerFuncion\obj\Debug\net8.0\ref\0_Aksarlian_MiPrimerFuncion.dll
