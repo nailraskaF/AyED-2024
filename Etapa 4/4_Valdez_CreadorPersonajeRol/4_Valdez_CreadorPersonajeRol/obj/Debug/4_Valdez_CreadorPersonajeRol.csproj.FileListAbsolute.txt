@@ -1,0 +1,20 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Form2.resources
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.exe.config
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.exe
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.pdb
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Form1.resources
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Form2.resources
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Properties.Resources.resources
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.exe
+C:\Users\alumno.ET37\Downloads\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.pdb
