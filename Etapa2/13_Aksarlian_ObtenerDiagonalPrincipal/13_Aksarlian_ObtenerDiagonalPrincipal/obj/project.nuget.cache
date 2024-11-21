@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDVnxlle3GM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panch\\source\\repos\\13_Aksarlian_ObtenerDiagonalPrincipal\\13_Aksarlian_ObtenerDiagonalPrincipal\\13_Aksarlian_ObtenerDiagonalPrincipal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panch\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.11\\microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "C:\\Users\\panch\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\panch\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

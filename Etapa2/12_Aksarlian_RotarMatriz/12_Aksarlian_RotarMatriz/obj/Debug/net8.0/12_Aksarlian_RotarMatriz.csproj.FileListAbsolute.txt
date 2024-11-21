@@ -1,0 +1,14 @@
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\bin\Debug\net8.0\12_Aksarlian_RotarMatriz.exe
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\bin\Debug\net8.0\12_Aksarlian_RotarMatriz.deps.json
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\bin\Debug\net8.0\12_Aksarlian_RotarMatriz.runtimeconfig.json
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\bin\Debug\net8.0\12_Aksarlian_RotarMatriz.dll
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\bin\Debug\net8.0\12_Aksarlian_RotarMatriz.pdb
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.AssemblyInfoInputs.cache
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.AssemblyInfo.cs
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.dll
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\refint\12_Aksarlian_RotarMatriz.dll
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.pdb
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\12_Aksarlian_RotarMatriz.genruntimeconfig.cache
+C:\Users\panch\source\repos\12_Aksarlian_RotarMatriz\12_Aksarlian_RotarMatriz\obj\Debug\net8.0\ref\12_Aksarlian_RotarMatriz.dll
