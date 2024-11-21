@@ -1,0 +1,14 @@
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\bin\Debug\net8.0\TPGrupoMatrices.exe
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\bin\Debug\net8.0\TPGrupoMatrices.deps.json
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\bin\Debug\net8.0\TPGrupoMatrices.runtimeconfig.json
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\bin\Debug\net8.0\TPGrupoMatrices.dll
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\bin\Debug\net8.0\TPGrupoMatrices.pdb
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.AssemblyInfoInputs.cache
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.AssemblyInfo.cs
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.dll
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\refint\TPGrupoMatrices.dll
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.pdb
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\TPGrupoMatrices.genruntimeconfig.cache
+C:\Users\panch\source\repos\TPGrupoMatrices\TPGrupoMatrices\obj\Debug\net8.0\ref\TPGrupoMatrices.dll
