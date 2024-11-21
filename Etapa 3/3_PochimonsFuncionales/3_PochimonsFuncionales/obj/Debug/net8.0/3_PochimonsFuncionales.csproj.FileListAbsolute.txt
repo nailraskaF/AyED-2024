@@ -1,0 +1,14 @@
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\bin\Debug\net8.0\3_PochimonsFuncionales.exe
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\bin\Debug\net8.0\3_PochimonsFuncionales.deps.json
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\bin\Debug\net8.0\3_PochimonsFuncionales.runtimeconfig.json
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\bin\Debug\net8.0\3_PochimonsFuncionales.dll
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\bin\Debug\net8.0\3_PochimonsFuncionales.pdb
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.AssemblyInfoInputs.cache
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.AssemblyInfo.cs
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.dll
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\refint\3_PochimonsFuncionales.dll
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.pdb
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\3_PochimonsFuncionales.genruntimeconfig.cache
+C:\Users\panch\source\repos\3_PochimonsFuncionales\3_PochimonsFuncionales\obj\Debug\net8.0\ref\3_PochimonsFuncionales.dll
