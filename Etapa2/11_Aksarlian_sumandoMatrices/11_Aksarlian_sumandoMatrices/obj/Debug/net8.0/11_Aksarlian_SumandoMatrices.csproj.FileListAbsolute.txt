@@ -1,0 +1,14 @@
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\bin\Debug\net8.0\11_Aksarlian_SumandoMatrices.exe
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\bin\Debug\net8.0\11_Aksarlian_SumandoMatrices.deps.json
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\bin\Debug\net8.0\11_Aksarlian_SumandoMatrices.runtimeconfig.json
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\bin\Debug\net8.0\11_Aksarlian_SumandoMatrices.dll
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\bin\Debug\net8.0\11_Aksarlian_SumandoMatrices.pdb
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.AssemblyInfoInputs.cache
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.AssemblyInfo.cs
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.dll
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\refint\11_Aksarlian_SumandoMatrices.dll
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.pdb
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\11_Aksarlian_SumandoMatrices.genruntimeconfig.cache
+C:\Users\panch\source\repos\11_Aksarlian_SumandoMatrices\11_Aksarlian_SumandoMatrices\obj\Debug\net8.0\ref\11_Aksarlian_SumandoMatrices.dll
